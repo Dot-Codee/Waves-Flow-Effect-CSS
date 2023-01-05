@@ -14,9 +14,9 @@ section {
     overflow: hidden;
 }
 
-.cloudyTitle {
-    transform: translateY(50px);
-    font-size: 128px;
+.wavyTitle {
+    transform: translateY(-10px);
+    font-size: 64px;
     font-family: sans-serif;
     color: whitesmoke;
 }
